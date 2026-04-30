@@ -1,5 +1,5 @@
 import React from 'react';
-import { Phone, ChevronDown } from 'lucide-react';
+import { Phone } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export const SubHeader: React.FC = () => {
